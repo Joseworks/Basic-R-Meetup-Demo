@@ -8,11 +8,10 @@
 
  plot(AirPassengers)
 
-In statistics, a histogram is a graphical representation of
-the distribution of data. It is an estimate of the probability
-distribution of a continuous variable
+# In statistics, a histogram is a graphical representation of
+# the distribution of data. It is an estimate of the probability
+# distribution of a continuous variable
 
-https://developers.google.com/chart/interactive/docs/gallery/histogram
 
  hist(AirPassengers)
  #with shading

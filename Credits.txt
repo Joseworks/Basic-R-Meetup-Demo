@@ -1,0 +1,30 @@
+
+Documentation and References
+
+Based on :
+Exploring Everyday ththings with R and Ruby.
+Sau Sheong Chang
+
+
+
+Coastal Carolina University
+http://ww2.coastal.edu/kingw/statistics/R-tutorials/graphs.html
+
+
+
+Datasets
+
+https://github.com/vincentarelbundock/Rdatasets
+http://vincentarelbundock.github.io/Rdatasets/
+http://vincentarelbundock.github.io/Rdatasets/datasets.html
+
+UCLA
+http://www.ats.ucla.edu/stat/r/faq/data_sets_avaiable_R.htm
+
+https://developers.google.com/chart/interactive/docs/gallery/histogram
+
+Dinosaurs Data
+http://www.dinodatabase.com/dinorcds.asp
+
+Quick R
+http://www.statmethods.net/advgraphs/layout.html
